@@ -1,14 +1,14 @@
 # python-study-repository
 This repository includes the process of learning python, including basic knowledge, object-oriented programming (OOP),web crawler, classic cryptography, pygame and machine learning.
 
-# basic grammar
+## basic grammar
 
-# object-oriented programming (OOP)
+## object-oriented programming (OOP)
 
-# Web crawler
+## Web crawler
 Some interesting and simple examples of web crawler, realize from BIT public class in MOOC. 
 
-# Classic cryptography
+## Classic cryptography
 Some classic cryptography coding and encoding program, include morse code, virginia cipher(caesar), fence cipher, qwe transfer, and jiujian(9-keys) transfer.
 
 interface1.py
@@ -32,6 +32,6 @@ Fence cipher encryption and decryption Achieved: It can encrypt a piece of Engli
 jiujian_transfer.py qwe_transfer.py
 These two files transfer text by 9-keys-keyboard and 26-keys-keyboard(qwe)
 
-# pygame
+## pygame
 
-# machine learning
+## machine learning
