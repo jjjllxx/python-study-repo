@@ -1,16 +1,16 @@
 # Classic-cryptography-in-python
 Some classic cryptography coding and encoding program, include morse code, virginia cipher(caesar), fence cipher, qwe transfer, and jiujian(9-keys) transfer.
 
-interface1.py  
+`interface1.py`  
 A generalized interface where user can choose encryption/decryption mode.  
 
-morse_code.py  
+`morse_code.py`  
 Complete the function of converting Morse code into corresponding numbers or letters or digital letters into passwords, suitable for different symbols of dots, dashes and intervals. User can costumize symbol for dash, dot and interval.  
 To be improved: Some passwords are separated by more than one character, and some passwords have different interval symbols between letters and letters, words and words.    
 https://en.wikipedia.org/wiki/Morse_code  
 
 
-virginia_cipher.py  
+`virginia_cipher.py`  
 Virginia cipher encryption and decryption
 Achieved: English characters can have spaces, encryption and decryption are reversed
 To be improved: cannot be used to encrypt non-English characters (numbers and Chinese punctuation marks), all upper and lower case will be converted to lower case.  
@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
 https://en.wikipedia.org/wiki/Caesar_cipher  
 User can costumize the key of virginia cipher and offset of caeser cipher. Without knowing offset of caeser cipher, it can be decrypted violently.  
 
-fence_cipher.py  
+`fence_cipher.py `   
 Fence cipher encryption and decryption
 Achieved: It can encrypt a piece of English characters, Chinese characters, numbers or other symbols, or a combination
 of the above methods, and has a wide range of applications (but encrypted Chinese can be easily deciphered)
@@ -32,5 +32,6 @@ Missing a space causes the decryption to be garbled)
 Multi-encryption, reverse input fence width when decrypting
 
 
-jiujian_transfer.py   qwe_transfer.py  
+`jiujian_transfer.py`  
+`qwe_transfer.py`  
 These two files transfer text by 9-keys-keyboard and 26-keys-keyboard(qwe)  

@@ -9,6 +9,6 @@ Function:
 """
 import jieba
 
-text = '我爱北京天安门'
+text = '这是一句用来测试的话'
 a = "".join(list(jieba.cut(text)))
 print(a)
