@@ -3,11 +3,12 @@ This repository includes the process of learning python, including basic knowled
 
 
 
-## object-oriented programming (OOP)
+## Object-Oriented Programming (OOP)
 
-## basic grammar
+## Basic
+Basic knowledge for python learning.
 
-## classic cryptography
+## Classic Cryptography
 Some classic cryptography coding and encoding program, include morse code, virginia cipher(caesar), fence cipher, qwe transfer, and jiujian(9-keys) transfer.
 
 interface1.py  
@@ -30,11 +31,10 @@ Fence cipher encryption and decryption Achieved: It can encrypt a piece of Engli
 jiujian_transfer.py & qwe_transfer.py  
 These two files transfer text by 9-keys-keyboard and 26-keys-keyboard(qwe)
 
-## excel
+## Machine Learning
 
-## machine learning
+## Games
+Include pygame
 
-## pygame
-
-## Web crawler
+## Web
 Some interesting and simple examples of web crawler, realize from BIT public class in MOOC. 
